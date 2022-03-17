@@ -7,5 +7,5 @@
 
 # بتعمل اي هنا يكصمك اوعا تقرب من الملفات
 
-#@[heroku](https://heroku.com/deploy?template=https://github.com/selva0st=/Assistant)
+#[heroku](https://heroku.com/deploy?template=https://github.com/selva0st=/Assistant)
 
